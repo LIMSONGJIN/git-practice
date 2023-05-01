@@ -11,20 +11,20 @@ Abstract: This project is to practice git.
 
 ## Installation
 
-'''shell
+```shell
 $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
-'''
+```
 
 
 ## How to start
 
-'''python
+```python
 def hello(name):
 	print(f'hello, {name}')
 
 hello('Jojn Doe')
-'''
+```
 
 ## Features
